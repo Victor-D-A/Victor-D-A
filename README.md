@@ -33,5 +33,5 @@ Lightweight note-taking web app focused on fast interaction and usability.
 
 ## 📫 Contact
 
-Email: victor.aguilard4@gmail.com
+Email: victor.aguilard4@gmail.com  
 LinkedIn: https://www.linkedin.com/in/victor-aguilar-239926213
